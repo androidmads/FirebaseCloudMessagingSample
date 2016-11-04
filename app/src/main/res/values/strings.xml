@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireBase Cloud Messaging</string>
+    <string name="placeholder">Your FCM Device ID</string>
+</resources>
